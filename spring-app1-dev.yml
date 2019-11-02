@@ -1,0 +1,6 @@
+environment: dev
+log:
+  level: DEBUG
+db:
+  user: devDbUser
+  password: devDbPassword

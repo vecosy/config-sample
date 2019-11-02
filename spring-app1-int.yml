@@ -1,0 +1,4 @@
+environment: int
+db:
+  user: intDbUser
+  password: intDbPassword
