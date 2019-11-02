@@ -28,3 +28,9 @@ repo:
     path: /tmp/vecosyData
 
 ```
+
+## Example
+### Smart Config 
+https://github.com/vecosy/config-sample/tree/app1/1.0.0
+### Spring
+https://github.com/vecosy/config-sample/tree/spring-app1/1.0.0
